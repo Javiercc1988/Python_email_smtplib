@@ -13,7 +13,7 @@ Hola! {}, te escribo para decirte que: {}, y mi direccion web {}"""
 
 destinatario = 0
 port = 465
-sender = "cuentapruebasdaw@gmail.com"
+sender = "example1@example.com"
 password = getpass.getpass('Password:')
 
 # Creamos la conexión segura por SSL
